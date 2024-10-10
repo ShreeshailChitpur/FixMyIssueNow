@@ -36,3 +36,6 @@ The platform was developed using the following technologies:
 ## Result
 
 The platform significantly streamlined the complaint submission and resolution process, reducing the time required for users to submit issues and for administrators to address them. Its modular nature allowed for easy integration into other websites, making it a versatile and scalable solution for organizations. As a result, customer satisfaction improved, and organizational efficiency in complaint management increased.
+
+![image](https://github.com/user-attachments/assets/edb77d97-2e1f-4f79-b7fc-04c965190187)
+
